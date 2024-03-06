@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-json-server",
+  "version": "1.0.0",
+  "description": "servidor JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

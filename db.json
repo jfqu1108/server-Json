@@ -1,0 +1,69 @@
+{
+  "profesores": [
+    {
+      "nombre": "Felipe",
+      "apellido": "Quijano",
+      "materias": [
+        {
+          "nombre": "calculo"
+        },
+        {
+          "nombre": "ingles"
+        },
+        {
+          "nombre": "javaScript"
+        }
+      ],
+      "id": "dfe8"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Julian",
+      "apellido": "Urbano",
+      "promedio": 4.2,
+      "id": "4c03"
+    },
+    {
+      "nombre": "Alejandra",
+      "apellido": "Valencia",
+      "promedio": 3.8,
+      "id": "dbf5"
+    },
+    {
+      "nombre": "viviana",
+      "apellido": "Moreno",
+      "promedio": 4.5,
+      "id": "4e4f"
+    },
+    {
+      "id": "43c1"
+    },
+    {
+      "id": "14fd",
+      "nombre": "Ralphy",
+      "apellido": "Urbano",
+      "promedio": 3.5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "calculo",
+      "duracion": 20,
+      "dificultad": "intermedia",
+      "id": "f23a"
+    },
+    {
+      "nombre": "Ingles",
+      "duracion": 10,
+      "dificultad": "intermedia",
+      "id": "f7fc"
+    },
+    {
+      "nombre": "javaScript",
+      "duracion": 20,
+      "dificultad": "dificil",
+      "id": "7f0c"
+    }
+  ]
+}
